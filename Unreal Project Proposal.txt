@@ -1,0 +1,35 @@
+My idea is a simple FPS but with a twist.  Rather than use your gun to shoot the players and do damage,
+you will shoot a ball with an attempt to knock it toward the other players and the ball will do damage 
+based on its velocity and time of contact with the enemy player.  Different guns will allow the players 
+to manipulate the ball differently, for example, rockets or explosives will hit the ball harder and
+farther but may not be as accurate, while a SMG will be able to provide continuous control over the
+ball, moving it more accurately where you want.  
+
+
+General Rules:
+	* Players will be able to select a 2 weapon load out
+		o May not select the same 2 weapons
+		o Likely will add more customization to the load out like grenades, armor, etc
+	* Guns will do no damage to the other players
+	* Ball will damage other players
+		o Velocity, time of impact, and location of impact will affect the damage taken
+	* If a player dies there will be a short respawn time
+	* Should time permit there will be 2 game modes: FFA death match and Soccer
+
+FFA Death Match:
+	* Like any other shooter where you want to kill the other players and gain points.  
+	* Players will have relatively low health and a slightly longer respawn time
+		o Brief invincibility after respawn
+	* 100% customizable load out
+	* Gins will have limited ammo with ammo pickups around the map
+
+Soccer (I’m going to come up with a better name for this game mode, I know this is shit)
+	* A small fairly regular arena/field
+	* Players will have relatively more health so they die slower
+		o Slow health regen
+		o If a player dies there will be a slightly longer respawn time
+	* There will be set load outs that correspond to the position the player feels like playing
+		o Goalie with a rocket to simply get the ball away from the goal and maybe the ability to catch the ball sans damage
+		o Defense with an AR to be able to control the ball away from the other players and move it up the field and C4 to “steal” the ball from the other players
+		o Offense with an bottomless clip SMG to move/position the ball for shots and a sniper to hit the ball toward the goal
+	* Ammo will regenerate over time. 
